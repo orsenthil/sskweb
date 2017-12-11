@@ -1,10 +1,10 @@
 .. title: Donate
 .. slug: donate
 .. date: 2017-12-10 22:52:36 UTC+05:30
-.. tags: 
-.. category: 
-.. link: 
-.. description: 
+.. tags:
+.. category:
+.. link:
+.. description:
 .. type: text
 
 .. raw:: html
@@ -12,7 +12,6 @@
     <div class="container-fluid">
         <div class="row">
             <div class="col-md-6">
-
         <div>
         The Spastics Society of Karnataka needs and welcomes donations in cash/cheque
         and kind. Most of our children belong to the lower socio-economic strata.
