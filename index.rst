@@ -10,24 +10,20 @@
 
 .. class:: jumbotron col-md-6
 
-.. admonition:: This is a Fake Site
-
-    It pretends to be about things, but is really just an example.
-
-    .. raw:: html
-
-       <a href="https://getnikola.com/" class="btn btn-primary btn-lg">Click Me!</a>
-
+The Spastics Society of Karnataka is a  Non-Government Organisation (NGO)
+dedicated to the welfare of persons with Neuro-Muscular and Developmental
+Disabilities.  The Society provides a Comprehensive Package of Diagnostic and
+Intervention Services to persons with Cerebral Palsy, Autism, Mental
+Retardation, Multiple Disabilities and Learning Disabilities. 
 
 .. class:: col-md-5
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris non nunc turpis.
-Phasellus a ullamcorper leo. Sed fringilla dapibus orci eu ornare. Quisque
-gravida quam a mi dignissim consequat. Morbi sed iaculis mi. Vivamus ultrices
-mattis euismod. Mauris aliquet magna eget mauris volutpat a egestas leo rhoncus.
-In hac habitasse platea dictumst. Ut sed mi arcu. Nullam id massa eu orci
-convallis accumsan. Nunc faucibus sodales justo ac ornare. In eu congue eros.
-Pellentesque iaculis risus urna. Proin est lorem, scelerisque non elementum at,
-semper vel velit. Phasellus consectetur orci vel tortor tempus imperdiet. Class
-aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos
-himenaeos.
+Spastics Society of Karnataka (SSK) started off as a branch of the Spastics
+Society of India in the year 1982, and went on to become autonomous in the year
+1994. SSK is located on a 5 acre campus, donated by the Government of Karnataka, in
+Indiranagar, in the garden city of Bangalore.The Spastics Society of Karnataka
+welcomes donations in cash/cheque or kind. All donations to the Spastics
+Society of Karnataka are exempt under section 80G of the Income Tax Act of the
+Government of India.
+
+
