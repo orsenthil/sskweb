@@ -6,75 +6,75 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>https://orsenthil.github.io/sskweb/</loc>
+  <loc>https://example.com/</loc>
   <lastmod>2017-12-10T17:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/about-us/</loc>
+  <loc>https://example.com/about-us/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/archive.html</loc>
-  <lastmod>2017-12-10T17:27:00Z</lastmod>
+  <loc>https://example.com/archive.html</loc>
+  <lastmod>2017-12-11T02:39:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/assistive-technology-center/</loc>
+  <loc>https://example.com/assistive-technology-center/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/blog/</loc>
+  <loc>https://example.com/blog/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/categories/</loc>
+  <loc>https://example.com/categories/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/center-for-special-education/</loc>
+  <loc>https://example.com/center-for-special-education/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/community-based-rehabilitation/</loc>
+  <loc>https://example.com/community-based-rehabilitation/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/contact-us/</loc>
+  <loc>https://example.com/contact-us/</loc>
   <lastmod>2017-12-10T17:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/courses/</loc>
+  <loc>https://example.com/courses/</loc>
   <lastmod>2017-12-10T17:21:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/definition-of-terms/</loc>
+  <loc>https://example.com/definition-of-terms/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/diagnostic-and-research-center/</loc>
+  <loc>https://example.com/diagnostic-and-research-center/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/donate/</loc>
+  <loc>https://example.com/donate/</loc>
   <lastmod>2017-12-10T17:23:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/galleries/</loc>
+  <loc>https://example.com/galleries/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/inclusive-vocational-skills-training/</loc>
+  <loc>https://example.com/inclusive-vocational-skills-training/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/listings/</loc>
+  <loc>https://example.com/listings/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/services/</loc>
+  <loc>https://example.com/services/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
  <url>
-  <loc>https://orsenthil.github.io/sskweb/vision/</loc>
+  <loc>https://example.com/vision/</loc>
   <lastmod>2017-12-10T16:45:00Z</lastmod>
  </url>
 </urlset>

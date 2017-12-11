@@ -1,4 +1,4 @@
-Sitemap: https://orsenthil.github.io/sskweb/sitemapindex.xml
+Sitemap: https://example.com/sitemapindex.xml
 
 User-Agent: *
-Host: orsenthil.github.io
+Host: example.com
