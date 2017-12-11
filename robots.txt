@@ -1,0 +1,4 @@
+Sitemap: https://orsenthil.github.io/sskweb/sitemapindex.xml
+
+User-Agent: *
+Host: orsenthil.github.io
