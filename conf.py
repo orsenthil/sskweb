@@ -21,10 +21,10 @@ BLOG_AUTHOR = "webmaster"  # (translatable)
 BLOG_TITLE = "Spastics Society Of Karnataka"  # (translatable)
 # This is the main URL for your site. It will be used
 # in a prominent link. Don't forget the protocol (http/https)!
-# SITE_URL = "https://orsenthil.github.io/sskweb/"
+SITE_URL = "http://www.spasticssocietyofkarnataka.org/"
 # This is the URL where Nikola's output will be deployed.
 # If not set, defaults to SITE_URL
-# BASE_URL = "https://orsenthil.github.io/sskweb/"
+BASE_URL = "http://www.spasticssocietyofkarnataka.org/"
 BLOG_EMAIL = "webmaster@spasticssocietyofkarnataka.org"
 BLOG_DESCRIPTION = "The Spastics Society of Karnataka is a  Non-Government Organisation (NGO) dedicated to the welfare of persons with Neuro-Muscular and Developmental Disabilities.  The Society provides a Comprehensive Package of Diagnostic and Intervention Services to persons with Cerebral Palsy, Autism, Mental Retardation, Multiple Disabilities and Learning Disabilities."  # (translatable)
 
