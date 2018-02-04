@@ -10,7 +10,5 @@
 .. raw:: html
 
     <div class="container-fluid">
-         <div class="row">
     <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSdpF6mPPFyLq9uJwB8Dct5_vxRB9-HlP9NzoOI09Mkh5VoYRg/viewform?embedded=true"  width="800" height="1600" frameBorder="0" marginheight="0" marginwidth="0">Contact Us...</iframe>
-         </div>
     </div>
