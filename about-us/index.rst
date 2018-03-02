@@ -1,10 +1,10 @@
 .. title: About Us
 .. slug: about-us
 .. date: 2017-12-10 21:08:33 UTC+05:30
-.. tags:
-.. category:
-.. link:
-.. description:
+.. tags: 
+.. category: 
+.. link: 
+.. description: 
 .. type: text
 
 The history of SSK goes way back to 1982 when Mrs. Mitu Alur, mother of
@@ -24,3 +24,4 @@ serviced around 20,000 children and families.
 **Mrs. Rukmini  Krishnaswamy**
 
 *Technical Director*
+
