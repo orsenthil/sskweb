@@ -146,7 +146,7 @@ NAVIGATION_LINKS = {
             ("/inclusive-vocational-skills-training/", "Inclusive Vocational Skills Training"),
             ("/assistive-technology-center/", "Assistive Technology Center"),
           ), "Services"),
-        ("/educational-services/", "Educational Services"),
+        ("/courses/", "Educational Services"),
         ("/contact-us/", "Contact Us"),
         ("/donate/", "Donate")
         ),
