@@ -146,7 +146,7 @@ NAVIGATION_LINKS = {
             ("/inclusive-vocational-skills-training/", "Inclusive Vocational Skills Training"),
             ("/assistive-technology-center/", "Assistive Technology Center"),
           ), "Services"),
-        ("/courses/", "Courses"),
+        ("/educational-services/", "Educational Services"),
         ("/contact-us/", "Contact Us"),
         ("/donate/", "Donate")
         ),
@@ -157,7 +157,8 @@ THEME = "bootstrap3"
 
 # Primary color of your theme. This will be used to customize your theme and
 # auto-generate related colors in POSTS_SECTION_COLORS. Must be a HEX value.
-THEME_COLOR = '#5670d4'
+#THEME_COLOR = '#5670d4'
+THEME_COLOR = '#cdf7b2'
 
 # POSTS and PAGES contains (wildcard, destination, template) tuples.
 # (translatable)
