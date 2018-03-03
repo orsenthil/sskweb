@@ -27,3 +27,7 @@ Society of Karnataka are exempt under section 80G of the Income Tax Act of the
 Government of India.
 
 
+.. image:: https://dl.dropbox.com/s/1uwwovzie9eqt2n/Screenshot%202018-03-03%2006.48.50.png
+
+
+
