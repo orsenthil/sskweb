@@ -33,9 +33,9 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 
 .. image:: /images/prevent-disability-logo.png
-   :target: http://preventdisability.org
    :width: 400
    :height: 180
+   :target: http://preventdisability.org
 
 
 .. _Foundation For Prevention Of Disability: http://preventdisability.org
