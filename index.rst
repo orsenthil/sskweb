@@ -32,8 +32,8 @@ Government of India.
 Our sister organization includes `Foundation For Prevention Of Disability`_
 
 
-.. image:: https://dl.dropbox.com/s/1uwwovzie9eqt2n/Screenshot%202018-03-03%2006.48.50.png
-   :target: http://preventdisability.org/
+.. image:: /images/prevent-disability-logo.png
+   :target: http://preventdisability.org
    :width: 400
    :height: 180
 
