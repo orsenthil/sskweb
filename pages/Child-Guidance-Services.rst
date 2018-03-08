@@ -32,7 +32,9 @@ Based on the analysis and educational assessment results further diagnosis and i
 
 -	Counseling parents and children after the completion of educational evaluation.  
 
-Remedial Intervention 
+Remedial Intervention
+----------------------
+
 Children with Specific Learning Disability are referred for remedial support with special educators under the guidance of Psycho-Education Unit.
 
 Workshops – Conducting workshops for parents, teachers and other professionals.
