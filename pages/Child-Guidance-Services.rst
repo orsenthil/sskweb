@@ -10,9 +10,9 @@ Cater to children from pre-school until Senior Secondary / PUC
 
 The Unit is recognized by education boards - CBSE, ICSE, IGCSE etc. to provide concessions and accommodations for children with Specific Learning difficulties. 
 
-Psycho Educational Screening, Assessment –– The assessments measure a child's cognitive and academic strengths and weaknesses.  Generally children are referred for these assessments when they are having difficulties at school, or they are doing very well at school but have social emotional difficulties and may be getting bored or children from integrated schools and with behavioural and learning difficulties  who need to be given guidance for future educational / vocational placements. 
+*Psycho Educational Screening, Assessment* –– The assessments measure a child's cognitive and academic strengths and weaknesses.  Generally children are referred for these assessments when they are having difficulties at school, or they are doing very well at school but have social emotional difficulties and may be getting bored or children from integrated schools and with behavioural and learning difficulties  who need to be given guidance for future educational / vocational placements. 
 
-Psychological Evaluations - to determine the child’s intellectual potential for both curriculum accommodations (from various boards such as CBSE, ICSE, IGCSE etc) and modification as well as evaluating emotional issues.
+*Psychological Evaluations* - to determine the child’s intellectual potential for both curriculum accommodations (from various boards such as CBSE, ICSE, IGCSE etc) and modification as well as evaluating emotional issues.
 
 The aim is to provide a thorough assessment which takes into account information from a number of sources and considers different possibilities for difficulties.  We aim to make recommendations that will assist children and their families to do the best they can do and also support the teacher in the classroom.  
 
@@ -37,9 +37,9 @@ Remedial Intervention
 
 Children with Specific Learning Disability are referred for remedial support with special educators under the guidance of Psycho-Education Unit.
 
-Workshops – Conducting workshops for parents, teachers and other professionals.
+*Workshops* – Conducting workshops for parents, teachers and other professionals.
 
-School Visits – for both mainstream and special schools. The visits focus on teacher training, establishing resource rooms, assessments and curriculum planning as well as parents counseling.
+*School Visits* – for both mainstream and special schools. The visits focus on teacher training, establishing resource rooms, assessments and curriculum planning as well as parents counseling.
 
 
 The unit gets referrals from within India and abroad.
