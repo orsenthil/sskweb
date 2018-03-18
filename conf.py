@@ -87,6 +87,9 @@ NAVIGATION_LINKS = {
             ("/community-based-rehabilitation/", "Community Based Rehabilitation Unit"),
             ("/inclusive-vocational-skills-training/", "Inclusive Vocational Skills Training"),
             ("/assistive-technology-center/", "Assistive Technology Center"),
+            ("/child-guidance-services/", "Child Guidance Services"),
+            ("/vocational-training/", "Vocational Training"),
+            ("/we-tree-training-productions/", "We Tree Training Productions")
           ), "Services"),
         ("/courses/", "Educational Services"),
         ("/contact-us/", "Contact Us"),
