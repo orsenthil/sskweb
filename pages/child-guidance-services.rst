@@ -10,8 +10,6 @@
 Child Guidance Services provides a comprehensive array of programmes and services
 designed to meet the individual needs of the children and families who seek our care.
 
-.. contents::
-
 Programs at the Unit
 --------------------
 
