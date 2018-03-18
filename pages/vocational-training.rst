@@ -7,9 +7,6 @@
 .. description:
 .. type: text
 
-
-.. contents::
-
 The goal of vocational training is to lead young adults with special needs to the threshold of dignified
 living by earning a livelihood. The programmes include a variety of activities which are aimed to help
 improve gross and fine motor abilities, functional learning and life skills, follow a process from concept
