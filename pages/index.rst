@@ -8,7 +8,7 @@
 .. type: text
 
 Centre for Developmental Disabilities
-=====================================
+-------------------------------------
 
 .. class:: jumbotron col-md-6
 
@@ -39,8 +39,6 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 .. _Foundation For Prevention Of Disability: http://preventdisability.org
 
-
-.. class:: col-md-6
 
 .. class:: col-md-6
 
