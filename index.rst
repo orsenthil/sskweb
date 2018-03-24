@@ -48,4 +48,4 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 .. raw:: html
 
-    <a class="twitter-timeline" data-width="300" data-height="206" href="https://twitter.com/spastics_kar?ref_src=twsrc%5Etfw">News from spastics_kar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+   <a class="twitter-timeline" data-width="400" data-height="500" data-dnt="true" data-theme="dark" href="https://twitter.com/spastics_kar?ref_src=twsrc%5Etfw">Tweets by spastics_kar</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
