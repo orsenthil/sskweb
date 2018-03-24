@@ -7,8 +7,7 @@
 .. description:
 .. type: text
 
-Centre for Developmental Disabilities
--------------------------------------
+**(Center For Developmental Disability)**
 
 .. class:: jumbotron col-md-6
 
