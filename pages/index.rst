@@ -7,7 +7,7 @@
 .. description:
 .. type: text
 
-**Center For Prevention of Disability**
+**(Center For Developmental Disability)**
 
 .. class:: jumbotron col-md-6
 
