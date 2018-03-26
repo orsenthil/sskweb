@@ -23,7 +23,7 @@ Spastics Society of Karnataka (SSK) started off as a branch of the Spastics
 Society of India in the year 1982, and went on to become autonomous in the year
 1994. SSK is located on a 5 acre campus, donated by the Government of Karnataka, in
 Indiranagar, in the garden city of Bangalore.The Spastics Society of Karnataka
-welcomes donations in cash/cheque or kind. .. _donate: All donations to the Spastics
+welcomes donations in cash/cheque or kind. All donations to the Spastics
 Society of Karnataka are exempt under section 80G of the Income Tax Act of the
 Government of India.
 
