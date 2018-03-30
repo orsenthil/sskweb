@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/</loc>
-  <lastmod>2018-03-18T14:43:00Z</lastmod>
+  <lastmod>2018-03-30T06:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/about-us/</loc>
@@ -68,6 +68,10 @@
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/services/</loc>
   <lastmod>2018-03-02T16:34:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.spasticssocietyofkarnataka.org/staff/</loc>
+  <lastmod>2018-03-30T06:51:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/vision/</loc>
