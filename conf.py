@@ -92,6 +92,7 @@ NAVIGATION_LINKS = {
             ("/we-tree-training-productions/", "We Tree Training Productions")
           ), "Services"),
         ("/courses/", "Educational Services"),
+        ("/staff/", "Staff"),
         ("/contact-us/", "Contact Us"),
         ("/donate/", "Donate")
         ),
