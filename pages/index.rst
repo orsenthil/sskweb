@@ -42,7 +42,18 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 .. raw:: html
 
-    <div class="fb-post" data-href="https://www.facebook.com/spasticssocietyofkarnataka/photos/a.1485794418383754.1073741826.1479515015678361/1489293074700555/?type=3" data-width="500" data-show-text="true"><blockquote cite="https://www.facebook.com/spasticssocietyofkarnataka/photos/a.1485794418383754.1073741826.1479515015678361/1489293074700555/?type=3" class="fb-xfbml-parse-ignore"><p>Nicknamed SSK, we are an NGO working in the Space of Child Development and Disabilities since 1982</p>Posted by <a href="https://www.facebook.com/spasticssocietyofkarnataka/">Spastics Society of Karnataka - Winter Carnival</a> on&nbsp;<a href="https://www.facebook.com/spasticssocietyofkarnataka/photos/a.1485794418383754.1073741826.1479515015678361/1489293074700555/?type=3">Wednesday, September 2, 2015</a></blockquote></div>
+    <div id="fb-root"></div>
+    <script>(function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.12';
+    fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));</script>
+
+
+    <div class="fb-page" data-href="https://www.facebook.com/spasticssocietyofkarnataka/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/spasticssocietyofkarnataka/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/spasticssocietyofkarnataka/">Spastics Society of Karnataka - Winter Carnival</a></blockquote></div>
+
 
 .. class:: col-md-6
 
