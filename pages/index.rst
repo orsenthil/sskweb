@@ -52,7 +52,7 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
     }(document, 'script', 'facebook-jssdk'));</script>
 
 
-    <div class="fb-page" data-href="https://www.facebook.com/spasticssocietyofkarnataka/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/spasticssocietyofkarnataka/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/spasticssocietyofkarnataka/">Spastics Society of Karnataka - Winter Carnival</a></blockquote></div>
+    <div class="fb-page" data-width="400" data-href="https://www.facebook.com/spasticssocietyofkarnataka/" data-tabs="timeline" data-small-header="false" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="true"><blockquote cite="https://www.facebook.com/spasticssocietyofkarnataka/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/spasticssocietyofkarnataka/">Spastics Society of Karnataka</a></blockquote></div>
 
 
 .. class:: col-md-6
