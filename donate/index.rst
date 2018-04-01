@@ -25,8 +25,7 @@ Donations in Cheque can be made to **Spastics Society of Karnataka**
 Or contact us at office@spasticssocietyofkarnataka.org. We will get back in touch with you to facilitate your
  payment/donation.
 
-**All donations to Spastics Society of Karnataka are exempt from tax under section 80G, of the Income Tax Act.**
-
+**As per 35AC notification - Effective from 1-4-2017 Spastics Society of Karnataka is not receiving donations**
 
 Other forms of Support
 ----------------------
