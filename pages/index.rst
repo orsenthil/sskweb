@@ -7,7 +7,22 @@
 .. description:
 .. type: text
 
-**(Center For Developmental Disabilities)**
+.. raw:: html
+
+   <div class="container">
+      <div class="row">
+         <div class="col-md-2">
+            <img src="/images/ssk-logo-small.jpg">
+
+         </div>
+         <div class="col-md-10"></div>
+      </div>
+      <div class="row">
+      <strong>(Center For Developmental Disabilities)</strong>
+      </div>
+
+   </div>
+
 
 .. class:: jumbotron col-md-6
 
