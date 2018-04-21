@@ -91,10 +91,13 @@ NAVIGATION_LINKS = {
             ("/vocational-training/", "Vocational Training"),
             ("/we-tree-training-productions/", "We Tree Training Productions")
           ), "Services"),
-       ((
-        ("/courses/", "Courses Offered"),
-        ("/inclusive-vocational-skills-training-centre/", "Inclusive Vocational Skills Training Centre"),
-       ), "Educational Services"),
+        ((
+            ("/courses/", "Courses Offered"),
+            ("/inclusive-vocational-skills-training-centre/", "Inclusive Vocational Skills Training Centre"),
+        ), "Educational Services"),
+        ((
+            ("/teacher-training-courses/", "Teacher Training Courses"),
+         ), "Training and Development"),
         ("/staff/", "Staff"),
         ("/contact-us/", "Contact Us"),
         ("/donate/", "Donate")
@@ -268,7 +271,7 @@ COMPILERS = {
 # Nikola supports logo display.  If you have one, you can put the URL here.
 # Final output is <img src="LOGO_URL" id="logo" alt="BLOG_TITLE">.
 # The URL may be relative to the site root.
-# LOGO_URL = 'images/ssk-logo-xs-trans2.png'
+# LOGO_URL = 'images/small.png'
 
 # If you want to hide the title of your website (for example, if your logo
 # already contains the text), set this to False.
