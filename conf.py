@@ -96,6 +96,7 @@ NAVIGATION_LINKS = {
             ("/inclusive-vocational-skills-training-centre/", "Inclusive Vocational Skills Training Centre"),
         ), "Educational Services"),
         ((
+            ("/about-hrdt/", "About HRDT"),
             ("/teacher-training-courses/", "Teacher Training Courses"),
          ), "Training and Development"),
         ("/staff/", "Staff"),
