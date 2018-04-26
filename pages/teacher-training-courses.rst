@@ -61,7 +61,9 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
 
 * `**` Part-time Certificate Course – Classes on ALL Saturdays</br>
 
-<table class="table table-bordered">
+.. raw:: html
+
+ <table class="table table-bordered">
         <thead class="thead-dark">
         <tr>
             <th>S.No</th>
@@ -85,7 +87,7 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
             <td>2 Years (June 2018– May 2020)</td>
             <td>May 31</td>
         </tr>
-       </table>
+</table>
       
-      *** Full-time course – Classes from Monday to Friday - on completion of which, the candidate becomes an RCI certified Special Educator
+    * `***` Full-time course – Classes from Monday to Friday - on completion of which, the candidate becomes an RCI certified Special Educator</br>
 
