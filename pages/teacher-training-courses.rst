@@ -61,3 +61,31 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
 
 * `**` Part-time Certificate Course – Classes on ALL Saturdays</br>
 
+<table class="table table-bordered">
+        <thead class="thead-dark">
+        <tr>
+            <th>S.No</th>
+            <th>Name of the Course</th>
+            <th>Eligibility</th>
+            <th>Duration</th>
+            <th>Last Date to Apply</th>
+        </tr>
+        </thead>
+        <tr>
+            <td>1</td>
+            <td>*** D.Ed (Spl.Ed) in Autism Spectrum Disorder (ASD)</td>
+            <td>10+2 pass (minimum 50% marks)</td>
+            <td>2 Years (June 2018– May 2020)</td>
+            <td>May 31</td>
+        </tr>
+        <tr>
+            <td>2</td>
+            <td>*** D.Ed (Spl.Ed) in Cerebral Palsy (CP)</td>
+            <td>10+2 pass (minimum 50% marks)</td>
+            <td>2 Years (June 2018– May 2020)</td>
+            <td>May 31</td>
+        </tr>
+       </table>
+      
+      *** Full-time course – Classes from Monday to Friday - on completion of which, the candidate becomes an RCI certified Special Educator
+
