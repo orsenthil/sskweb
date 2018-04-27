@@ -55,13 +55,14 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
             <td>May 31</td>
         </tr>
     </table>
+  
 
 
 * `*` Part-time Certificate Course – Classes only on one Saturday a month</br>
 
 * `**` Part-time Certificate Course – Classes on ALL Saturdays</br>
 
-.. raw:: html
+.. raw:: html 
 
  <table class="table table-bordered">
         <thead class="thead-dark">
@@ -89,7 +90,9 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
         </tr>
 </table>
 
-      
+
+
+
 * `***` Full-time course – Classes from Monday to Friday - on completion of which, the candidate becomes an RCI certified Special Educator</br>
 
 For Enquiries / Application forms, please contact Department of Human Resource Development and Training (HRDT). Tel: 080-4074 5911 [Weekdays 10 am - 4 pm]; E-mail: ssk_hrdt@yahoo.co.in
