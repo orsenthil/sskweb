@@ -94,3 +94,6 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
 
 For Enquiries / Application forms, please contact Department of Human Resource Development and Training (HRDT). Tel: 080-4074 5911 [Weekdays 10 am - 4 pm]; E-mail: ssk_hrdt@yahoo.co.in
 
+BVB – Part time Courses
+-----------------------
+
