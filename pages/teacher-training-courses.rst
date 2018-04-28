@@ -55,47 +55,48 @@ In collaboration with Bharatiya Vidya Bhavan’s (BVB) H.B College of Communicat
             <td>May 31</td>
         </tr>
     </table>
-  
-
-
-* `*` Part-time Certificate Course – Classes only on one Saturday a month</br>
-
-* `**` Part-time Certificate Course – Classes on ALL Saturdays</br>
-
-.. raw:: html 
-
- <table class="table table-bordered">
-        <thead class="thead-dark">
-        <tr>
-            <th>S.No</th>
-            <th>Name of the Course</th>
-            <th>Eligibility</th>
-            <th>Duration</th>
-            <th>Last Date to Apply</th>
-        </tr>
-        </thead>
-        <tr>
-            <td>1</td>
-            <td>*** D.Ed (Spl.Ed) in Autism Spectrum Disorder (ASD)</td>
-            <td>10+2 pass (minimum 50% marks)</td>
-            <td>2 Years (June 2018– May 2020)</td>
-            <td>May 31</td>
-        </tr>
-        <tr>
-            <td>2</td>
-            <td>*** D.Ed (Spl.Ed) in Cerebral Palsy (CP)</td>
-            <td>10+2 pass (minimum 50% marks)</td>
-            <td>2 Years (June 2018– May 2020)</td>
-            <td>May 31</td>
-        </tr>
-</table>
 
 
 
+* `*` Part-time Certificate Course – Classes only on one Saturday a month.
 
-* `***` Full-time course – Classes from Monday to Friday - on completion of which, the candidate becomes an RCI certified Special Educator</br>
+* `**` Part-time Certificate Course – Classes on ALL Saturdays.
+
+.. raw:: html
+
+    <table class="table table-bordered">
+            <thead class="thead-dark">
+            <tr>
+                <th>S.No</th>
+                <th>Name of the Course</th>
+                <th>Eligibility</th>
+                <th>Duration</th>
+                <th>Last Date to Apply</th>
+            </tr>
+            </thead>
+            <tr>
+                <td>1</td>
+                <td>*** D.Ed (Spl.Ed) in Autism Spectrum Disorder (ASD)</td>
+                <td>10+2 pass (minimum 50% marks)</td>
+                <td>2 Years (June 2018– May 2020)</td>
+                <td>May 31</td>
+            </tr>
+            <tr>
+                <td>2</td>
+                <td>*** D.Ed (Spl.Ed) in Cerebral Palsy (CP)</td>
+                <td>10+2 pass (minimum 50% marks)</td>
+                <td>2 Years (June 2018– May 2020)</td>
+                <td>May 31</td>
+            </tr>
+    </table>
+
+
+
+
+* `***` Full-time course – Classes from Monday to Friday - on completion of which, the candidate becomes an RCI certified Special Educator.
 
 For Enquiries / Application forms, please contact Department of Human Resource Development and Training (HRDT). Tel: 080-4074 5911 [Weekdays 10 am - 4 pm]; E-mail: ssk_hrdt@yahoo.co.in
+
 
 BVB – Part time Courses
 -----------------------
