@@ -7,7 +7,15 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/</loc>
-  <lastmod>2018-04-21T16:15:00Z</lastmod>
+  <lastmod>2018-04-28T13:48:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.spasticssocietyofkarnataka.org/about-hrdt.rst/</loc>
+  <lastmod>2018-04-28T13:45:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.spasticssocietyofkarnataka.org/about-hrdt/</loc>
+  <lastmod>2018-04-28T13:48:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/about-us/</loc>
@@ -15,7 +23,7 @@
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/archive.html</loc>
-  <lastmod>2018-04-21T16:15:00Z</lastmod>
+  <lastmod>2018-04-28T13:45:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/assistive-technology-center/</loc>
