@@ -98,6 +98,8 @@ NAVIGATION_LINKS = {
         ((
             ("/about-hrdt/", "About HRDT"),
             ("/teacher-training-courses/", "Teacher Training Courses"),
+            ("/bvb-part-time-course/", "BVB Part time course"),
+            ("/rci-full-time-course/", "RCI Full Time Course"),
          ), "Training and Development"),
         ("/staff/", "Staff"),
         ("/contact-us/", "Contact Us"),
