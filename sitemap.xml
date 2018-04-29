@@ -7,7 +7,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/</loc>
-  <lastmod>2018-04-28T15:11:00Z</lastmod>
+  <lastmod>2018-04-29T15:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/about-hrdt/</loc>
@@ -19,7 +19,7 @@
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/archive.html</loc>
-  <lastmod>2018-04-28T13:45:00Z</lastmod>
+  <lastmod>2018-04-29T15:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/assistive-technology-center/</loc>
@@ -28,6 +28,10 @@
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/blog/</loc>
   <lastmod>2018-04-21T16:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.spasticssocietyofkarnataka.org/bvb-part-time-course/</loc>
+  <lastmod>2018-04-29T15:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/categories/</loc>
@@ -72,6 +76,14 @@
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/inclusive-vocational-skills-training/</loc>
   <lastmod>2018-04-21T16:15:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.spasticssocietyofkarnataka.org/internship-and-volunteering/</loc>
+  <lastmod>2018-04-29T15:53:00Z</lastmod>
+ </url>
+ <url>
+  <loc>http://www.spasticssocietyofkarnataka.org/rci-full-time-course/</loc>
+  <lastmod>2018-04-29T15:53:00Z</lastmod>
  </url>
  <url>
   <loc>http://www.spasticssocietyofkarnataka.org/services/</loc>
