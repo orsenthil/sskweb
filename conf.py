@@ -100,6 +100,7 @@ NAVIGATION_LINKS = {
             ("/teacher-training-courses/", "Teacher Training Courses"),
             ("/bvb-part-time-course/", "BVB Part time course"),
             ("/rci-full-time-course/", "RCI Full Time Course"),
+            ("/internship-and-volunteering/", "Internship and Volunteering"),
          ), "Training and Development"),
         ("/staff/", "Staff"),
         ("/contact-us/", "Contact Us"),

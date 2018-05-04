@@ -9,6 +9,4 @@
 
 .. raw:: html
 
-    <div class="container-fluid">
-    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSc1nQLixrEf20KGlpKuEBTT7TI_or_0ND0YY4Z5hSmor4dwUg/viewform?embedded=true" width="700" height="520" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
-    </div>
+    <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSegslRI905MdiEcVqrmcPrFw_I6TIHVr8r3aR5v-hjhpR_eHA/viewform?embedded=true" width="800" height="1600" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
