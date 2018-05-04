@@ -19,28 +19,23 @@ Please mention the position that you are interested in, in the subject line of t
         <tr>
             <th>Job</th>
             <th>Minimum Qualification</th>
-            <th></th>
         </tr>
         </thead>
         <tr>
             <td>Occupational Therapist</td>
             <td>BOT</td>
-            <td></td>
         </tr>
         <tr>
             <td>Medico Social Worker</td>
             <td>Bachelors Degree. Knowledge of Kannada Preferable.</td>
-            <td></td>
         </tr>
         <tr>
             <td>Physiotherapist</td>
             <td>BPT</td>
-            <td></td>
         </tr>
         <tr>
             <td>Special Educator</td>
             <td>Must be RCI Certified.&nbsp;Knowledge of Kannada preferable</td>
-            <td></td>
         </tr>
     </table>
 
