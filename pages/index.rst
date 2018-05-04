@@ -56,7 +56,7 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 .. class:: jumbotron col-md-6
 
-   `IMMEDIATE JOB VACANCIES - Please click here to see the current job openings available.`_
+   Immediate Job Vacancies: `Please see our current job openings`_
 
 
 .. class:: col-md-6
@@ -84,5 +84,5 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 
 .. _donations: http://spasticssocietyofkarnataka.org/donate
-.. _IMMEDIATE JOB VACANCIES - Please click here to see the current job openings available.`:
-http://spasticssocietyofkarnataka.org/careers/
+
+.. _Please see our current job openings: http://spasticssocietyofkarnataka.org/careers/
