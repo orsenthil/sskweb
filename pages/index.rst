@@ -53,6 +53,12 @@ Our sister organization includes `Foundation For Prevention Of Disability`_
 
 .. _Foundation For Prevention Of Disability: http://preventdisability.org
 
+
+.. class:: col-md-6
+
+   <bold>IMMEDIATE JOB VACANCIES: Please click here to see the current job openings available.</bold>
+
+
 .. class:: col-md-6
 
 .. raw:: html
