@@ -46,17 +46,14 @@ Government of India.
 
 Our sister organization includes `Foundation For Prevention Of Disability`_
 
+Immediate Job Vacancies: `Please see our current job openings`_
+
 
 .. image:: /images/prevent-disability-logo.png
    :width: 400
    :height: 180
 
 .. _Foundation For Prevention Of Disability: http://preventdisability.org
-
-
-.. class:: jumbotron col-md-6
-
-   Immediate Job Vacancies: `Please see our current job openings`_
 
 
 .. class:: col-md-6
