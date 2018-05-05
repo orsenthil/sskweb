@@ -44,9 +44,9 @@ Government of India.
 
 .. class:: col-md-6
 
-Our sister organization includes `Foundation For Prevention Of Disability`_
+   Our sister organization includes `Foundation For Prevention Of Disability`_
 
-Immediate Job Vacancies: `Please see our current job openings`_
+   Immediate Job Vacancies: `Please see our current job openings`_
 
 
 .. image:: /images/prevent-disability-logo.png
