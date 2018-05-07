@@ -24,6 +24,13 @@
    </div>
 
 
+.. class:: jumbotron col-md-12
+
+.. raw:: html
+
+   <div class="p-4 mb-3 text-info text-dark text-justify"> Attention: Immediate Job Vacancies:
+   <a href="http://spasticssocietyofkarnataka.org/careers/">Please see our current job openings.</a></div>
+
 .. class:: jumbotron col-md-6
 
 The Spastics Society of Karnataka is a  Non-Government Organisation (NGO)
@@ -45,8 +52,6 @@ Government of India.
 .. class:: col-md-6
 
    Our sister organization includes `Foundation For Prevention Of Disability`_
-
-   Immediate Job Vacancies: `Please see our current job openings`_
 
 
 .. image:: /images/prevent-disability-logo.png
