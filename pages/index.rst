@@ -28,7 +28,7 @@
 
 .. raw:: html
 
-   <div class="p-4 mb-3 text-info text-dark text-justify"> **Attention: Immediate Job Vacancies:**
+   <div class="p-4 mb-3 text-info text-dark text-justify"> Attention: Immediate Job Vacancies:
    <a href="http://spasticssocietyofkarnataka.org/careers/">Please see our current job openings.</a></div>
 
 .. class:: jumbotron col-md-6
@@ -88,3 +88,4 @@ Government of India.
 .. _donations: http://spasticssocietyofkarnataka.org/donate
 
 .. _Please see our current job openings: http://spasticssocietyofkarnataka.org/careers/
+ 
