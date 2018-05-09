@@ -28,8 +28,8 @@
 
 .. raw:: html
 
-   <div class="p-4 mb-3 text-info text-dark text-justify"> Attention: Immediate Job Vacancies:
-   <a href="http://spasticssocietyofkarnataka.org/careers/">Please see our current job openings.</a></div>
+   <h2>Attention: Immediate Job Vacancies:
+   <a href="http://spasticssocietyofkarnataka.org/careers/">Please see our current job openings.</h2>
 
 .. class:: jumbotron col-md-6
 
